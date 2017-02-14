@@ -38,8 +38,8 @@ What "research data" are we talking about?
 
 Get the ball rolling to expand awareness of the technical aspects of data management and this rapidly growing community of tech-aware data enthusiasts.
 What is....
-your favourite research data tech or software story or experience
-a software tool or service for research data you think others might be interested in
-a question or research data problem to crowdsource a solution.
+* your favorite research data tech or software story or experience
+* a software tool or service for research data you think others might be interested in
+* a question or research data problem to crowdsource a solution.
 
-Consider: a personal audit on what data technical skills you have, and what skills you want to learn.
+**Consider**: a personal audit on what data technical skills you have, and what skills you want to learn.
