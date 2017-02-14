@@ -17,9 +17,11 @@ keypoints:
 ## Getting started: Building data literacy - what can you do?
 
 We all have a role to play in building a world of data literate citizens.
+
 1. Enjoy this quirky and clever 1.48min video from a cartoonist:
 
    [![What is data literacy?](https://img.youtube.com/vi/qHz_ogTH2p4/0.jpg)](https://www.youtube.com/watch?v=qHz_ogTH2p4 "What is data literacy?") (YouTube)
+   
 2. Choose one of the sites from the list below. As you look around the site, think about how you might use these ideas to ‘grow’ your, or other people’s, data literacy:
     * For Universities and research institutes: Curtin University(Note: most universities have similar resources for those in universities or research institutes)
     * For Federal, State or Local Govt: Publishing your data in Govt data portals
