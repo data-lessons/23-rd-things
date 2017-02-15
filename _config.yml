@@ -3,7 +3,7 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "t3"
 
 # Overall title for pages.
 title: "23 (Research Data) Things - UC San Diego"
