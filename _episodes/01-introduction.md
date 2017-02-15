@@ -25,8 +25,8 @@ What "research data" are we talking about?
 
 1. Choose one of the 4 specialized data repositories below, or find another data repository of interest - particularly one in a discipline you are unfamiliar with and spend some time browsing around your chosen repository to get a feel for the data available.
 
-* Virtual Astronomical Observatory
-* RCSB Protein Data Bank
+* [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
+* [Harvard Dataverse](https://dataverse.harvard.edu/)
 * Australian Data Archive
 * USGS Water Data
 
