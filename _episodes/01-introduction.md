@@ -27,8 +27,9 @@ What "research data" are we talking about?
 
 * [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
 * [Harvard Dataverse](https://dataverse.harvard.edu/)
-* Australian Data Archive
+* [cancer Nanotechnology Laboratory (caNanoLab)](https://cananolab.nci.nih.gov/caNanoLab/#/)
 * USGS Water Data
+* [World Ocean Database](https://www.nodc.noaa.gov/OC5/WOD/pr_wod.html)
 
 2. Think about how the data here differs from data you are familiar with.  Consider for example, format, size and access method.
 
