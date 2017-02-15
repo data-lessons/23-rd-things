@@ -14,18 +14,17 @@
 -->
   <table class="table table-striped">
   <tr>
-    <td class="col-md-1">BLB Classroom 3</td>
-    <td class="col-md-1"></td>
-    <td class="col-md-3"><a href="{{ page.root }}/setup">Setup</a></td>
-    <td class="col-md-4">Download files used on the lesson.</td>
+    <td class="col-md-2">BLB Classroom 3</td>
+    <td class="col-md-4"><a href="{{ page.root }}/setup">Setup</a></td>
+    <td class="col-md-7">Download files used on the lesson.</td>
   </tr>
   {% for episode in site.episodes %}
     <tr>
-      <td class="col-md-1">{{ episode.date | date: '%B %d, %Y'}}, {{ episode.time}} </td>
+      <td class="col-md-2">{{ episode.date | date: '%B %d, %Y'}}, {{ episode.time}} </td>
       <td class="col-md-4">
         <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
-      <td class="col-md-7">
+      <td class="col-md-6">
         {% if episode.break %}
           Break
         {% else %}

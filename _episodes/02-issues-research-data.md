@@ -8,6 +8,6 @@ objectives:
 - "First objective."
 keypoints:
 - "First key point."
-date: "Feb. 23, 2017"
+date: "Mar. 2, 2017"
 time: "12-1pm"
 ---
