@@ -4,42 +4,25 @@
 {% endcomment %}
 <div class="syllabus">
   <h2 id="schedule">Schedule</h2>
-
+<!--
   {% assign day = 0 %}
   {% assign multiday = false %}
   {% for episode in site.episodes %}
     {% if episode.start %}{% assign multiday = true %}{% break %}{% endif %}
   {% endfor %}
   {% assign current = site.start_time %}
-
+-->
   <table class="table table-striped">
   <tr>
-    <td class="col-md-1"></td>
+    <td class="col-md-1">BLB Classroom 3</td>
     <td class="col-md-1"></td>
     <td class="col-md-3"><a href="{{ page.root }}/setup">Setup</a></td>
-    <td class="col-md-7">Dowload files used on the lesson.</td>
+    <td class="col-md-4">Download files used on the lesson.</td>
   </tr>
   {% for episode in site.episodes %}
-    {% if episode.start %} {% comment %} Starting a new day? {% endcomment %}
-      {% assign day = day | plus: 1 %}
-      {% if day > 1 %} {% comment %} If about to start day 2 or later, show finishing time for previous day {% endcomment %}
-        {% assign hours = current | divided_by: 60 %}
-        {% assign minutes = current | modulo: 60 %}
-        <tr>
-          {% if multiday %}<td></td>{% endif %}
-          <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
-          <td class="col-md-3">Finish</td>
-          <td class="col-md-7"></td>
-        </tr>
-      {% endif %}
-      {% assign current = site.start_time %} {% comment %}Re-set start time of this episode to general daily start time {% endcomment %}
-    {% endif %}
-    {% assign hours = current | divided_by: 60 %}
-    {% assign minutes = current | modulo: 60 %}
     <tr>
-      {% if multiday %}<td class="col-md-1">{% if episode.start %}Day {{ day }}{% endif %}</td>{% endif %}
-      <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
-      <td class="col-md-3">
+      <td class="col-md-1">{{ episode.date | date: '%B %d, %Y'}}, {{ episode.time}} </td>
+      <td class="col-md-4">
         <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
       <td class="col-md-7">

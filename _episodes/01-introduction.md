@@ -8,6 +8,8 @@ objectives:
 - "First objective."
 keypoints:
 - "First key point."
+date: "Feb. 23, 2017"
+time: "12-1pm"
 ---
 
 ## Getting started: What is research data?
