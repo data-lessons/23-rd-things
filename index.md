@@ -16,5 +16,5 @@ We wish to acknowledge Helene Blowers who created the original 23 Things (2006) 
 
 > ## Prerequisites
 >
-> FIXME
+> Come to the meeting with question you have about research data in your discipline or field. 
 {: .prereq}
