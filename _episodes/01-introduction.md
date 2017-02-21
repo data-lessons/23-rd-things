@@ -24,15 +24,19 @@ Let’s take a look at data collections.
 
 * Open up this collection: [Data from: A Living Vector Field Reveals Constraints on Galactose Network Induction in Yeast](http://library.ucsd.edu/dc/collection/bb5668210c) in the Digital Collections Research Data Collections.  The research data collected are microscopy images of field cells, a database file, and analysis code used to investigate how cell-level gene expression dynamics produce population-level phenotypes. 
 
+When you are done browsing the data in the first collection, take a look a the data in this second collection:
+
 * Open up this collection: [Santa Fe Light Cone Simulation research project files](http://library.ucsd.edu/dc/collection/bb1673671n) in the Digital Collections Research Data Collections. The project consists of data in three broad categories: the simulation data ("Data at Redshift" components); analysis tools and example scripts (Data Processing Tools) for processing the data; and project administration and background documents (Historical Documents) related to the project. 
 
-To view collection data: 
+***To view collection data:***
 * Click on the ***View Collection Items*** button to see the collection.  Next, click on the collection link. Take a look at the metadata and the variety of data formats contained in this one research data collection.
 
 
 * If you have time: have a look around the [Research Data Collections](http://library.ucsd.edu/dc) and check out the collections and see what other various formats data comes in.
 
-*One unique example is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an example of ~40 year old computer printed data that was digitized for sharing and preservation.
+***A different kind of data set:***
+
+One unique example is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an example of ~40 year old computer printed data that was digitized for sharing and preservation.
 
 
 **Consider**: how the complexity and range of data formats affect access and re-use possibilities.
