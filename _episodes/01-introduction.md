@@ -20,13 +20,15 @@ time: "12-1pm"
 
 
 
-Note: To find collection data in the Library Digtal Collections:
-* Click on the ***View Collection Items*** button to see the collection.  Next, click on the collection link. 
+
 
 
 
 
 **Let’s take a look at data collections.**
+
+*Note: To find collection data in the Library Digtal Collections:*
+* Click on the **View Collection Items** button to see the collection.  Next, click on the collection link. 
 
 Take a look at the metadata and the variety of data formats contained in these collections. 
 
