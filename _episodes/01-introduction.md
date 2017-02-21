@@ -14,13 +14,13 @@ time: "12-1pm"
 
 ## Getting started: What is research data?
 
-What "research data" are we talking about?
+**What "research data" are we talking about?**
 
 * Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University
 
 
 
-***Note: To find collection data in the Library Digtal Collections:***
+Note: To find collection data in the Library Digtal Collections:
 * Click on the ***View Collection Items*** button to see the collection.  Next, click on the collection link. 
 
 
