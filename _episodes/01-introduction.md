@@ -29,10 +29,7 @@ When you are done browsing the data in the first collection, take a look a the d
 * Open up this collection: [Santa Fe Light Cone Simulation research project files](http://library.ucsd.edu/dc/collection/bb1673671n) in the Digital Collections Research Data Collections. The project consists of data in three broad categories: the simulation data ("Data at Redshift" components); analysis tools and example scripts (Data Processing Tools) for processing the data; and project administration and background documents (Historical Documents) related to the project. 
 
 ***To view collection data:***
-* Click on the ***View Collection Items*** button to see the collection.  Next, click on the collection link. Take a look at the metadata and the variety of data formats contained in this one research data collection.
-
-
-* If you have time: have a look around the [Research Data Collections](http://library.ucsd.edu/dc) and check out the collections and see what other various formats data comes in.
+* Click on the ***View Collection Items*** button to see the collection.  Next, click on the collection link. Take a look at the metadata and the variety of data formats contained in this one research data collection.  If you have time, Click on the orange [Research Data Collections](http://library.ucsd.edu/dc) link and check out what other various formats data comes in.
 
 ***A different kind of data set:***
 
