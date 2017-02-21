@@ -25,11 +25,9 @@ We all have a role to play in building a world of data literate citizens.
    [![What is data literacy?](https://img.youtube.com/vi/qHz_ogTH2p4/0.jpg)](https://www.youtube.com/watch?v=qHz_ogTH2p4 "What is data literacy?") (YouTube)
 
 2. Choose one of the sites from the list below. As you look around the site, think about how you might use these ideas to ‘grow’ your, or other people’s, data literacy:
-    * For Universities and research institutes: Curtin University(Note: most universities have similar resources for those in universities or research institutes)
-    * For Federal, State or Local Govt: Publishing your data in Govt data portals
+    * For Universities and research institutes: [Data Information Literacy ](http://www.datainfolit.org/) & [Data Information Literacy Instruction Program Planning](http://guides.lib.purdue.edu/dil)
+    * For Federal, State or Local Govt:  [NCBI](https://www.ncbi.nlm.nih.gov/) & [Data.gov](https://www.data.gov/)
     * For Business: [Open data](http://theodi.org/open-data-that-drives-business) that drives business  (UK, 2015)
-    * For teachers and school librarians: Scroll down to Resources for educators to find data repositories which have teaching materials
-    * For lecturers: Have a look at the 9 case studies of how research data is used in various curricula
     * For librarians: A [“top ten” list of recommendations](http://libereurope.eu/wp-content/uploads/The%20research%20data%20group%202012%20v7%20final.pdf) for libraries to get started with research data management from LIBER (3 pages).
 
 **Consider**:  What you are going to do in your role to promote data literacy and what resources might you use? What are some other resources you know about which are useful for building data literacy?
@@ -40,13 +38,13 @@ People have very diverse needs in terms of what data literacy means for them.
 
 Choose from the list below and explore “data literacy” from the perspectives of these diverse roles:
 
-1. Australian Public Service: will launch the APS Data Skills and Capability Framework in 2016 to ensure employees across the APS can develop a minimum level of data literacy. Report - particularly Pages 4 and 9
+1. [Data informed learning](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.1450520100108/full)
 2. Librarians: [What is data literacy in Libraryland](http://databrarians.org/2015/02/what-is-data-literacy/)?
-3. Entrepreneurs: Data Literacy -- What It Is And Why None of Us Have It (from Forbes Magazine)
+3. Entrepreneurs: Data Literacy -- [What It Is And Why None of Us Have It ](http://www.forbes.com/sites/homaycotte/2014/10/28/data-literacy-what-it-is-and-why-none-of-us-have-it/#74161cbf51d3)(from Forbes Magazine)
 4. Political science students: [Data Literacy and Data Visualization](https://itunes.apple.com/us/course/data-literacy-data-visualization/id693097601) Lecture 1: Introduction (Note: you need iTunes)
 5. Writers, journalists: [Become Data Literate in 3 Simple Steps](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)- checking the facts when writing the news
 6. Teachers and high school students: [Data Literacy is Essential to Modern Society](https://youtu.be/4ei7BUMQl5c), which looks at teaching data literacy through Winning and losing on the Lottery. Video 3.51mins (2016)
-7. Citizens: [Open data for accountable governance](http://europeandcis.undp.org/blog/2013/09/09/open-data-and-accountable-governance-is-data-literacy-the-key-to-citizen-engagement/): Is data literacy the key to citizen engagement?
+7. Citizens: [Open data for accountable governance](http://thegovlab.org/open-data-for-accountable-governance-is-data-literacy-the-key-to-citizen-engagement/): Is data literacy the key to citizen engagement?
 
 **Consider**: your ideas about how we can build universal data literacy if we have such diverse needs.
 

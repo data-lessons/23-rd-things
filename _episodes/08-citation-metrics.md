@@ -17,15 +17,20 @@ time: "12-1pm"
 ## Getting started: DOIs, data citation and metrics
 
 Digital Object Identifiers (DOIs) are unique identifiers that provide persistent access to published articles, datasets, software versions and a range of other research inputs and outputs. There are over 120million Digital Object Identifiers (DOIs) in use, and last year DOIs were “resolved” (clicked on) over 5 billion times!
+
 Each DOI is unique but a typical DOI looks like this: http://doi.org/10.4225/08/50F62E0D359D5
 DOIs can be used to collect citation metrics about the use of a dataset or article.
 
-1. Start by watching this short 4.5min video Persistent identifiers and data citation explained from the Netherlands. It gives you a succinct, clear explanation of how DOIs underpin data citation.
+1. Start by watching this short 4.5min [video]() Persistent identifiers and data citation explained from the Netherlands. It gives you a succinct, clear explanation of how DOIs underpin data citation.
 2. Have a look at the Data citation poster (opens to an A4 size) - follow the arrows to see how DOIs are attached to data sets.  
 3. Let’s go to a CSIRO data record which shows how DOIs are used. Click on this DOI to ‘resolve’ the DOI and take us to the record: http://doi.org/10.4225/08/50F62E0D359D5.
+
 Click on both the Description and Data tabs and note how many times the DOI is used in this data record.  It will give you some ideas why DOIs are given such prominence.
+
 This same record has been syndicated to Research Data Australia.  Click on the Cite icon on the upper left of the record (under the green Go To Data Provider tab).  Now click on the DOI in the data citation.  No matter where the DOI appears it always resolves back to its original dataset record to avoid duplication. I.e. many records, one copy.
+
 DOIs can also be applied to grey literature, such as reports like the Haefliger’s cottage investigation with this DOI http://dx.doi.org/10.4227/11/50459F7BD4D0B in the NEW Archaeology Online: Grey Literature Archive.
+
 If you have time: Want to know more about DOIs? Scan the ANDS DOI Guide page.
 Metrics such as Times Viewed, Times Accessed and Times Downloaded are commonly known as ‘Altmetrics’.  Altmetrics are explored in Thing 8 Learn More.
 What’s your opinion?
