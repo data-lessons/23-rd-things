@@ -19,12 +19,18 @@ What "research data" are we talking about?
 * Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University
 
 
-Let’s take a look at data collections.
 
-***To view collection data:***
-* Click on the ***View Collection Items*** button to see the collection.  Next, click on the collection link. Take a look at the metadata and the variety of data formats contained in these collections. 
+***Note: To find collection data in the Library Digtal Collections:***
+* Click on the ***View Collection Items*** button to see the collection.  Next, click on the collection link. 
 
-* Open up this collection: [Data from: A Living Vector Field Reveals Constraints on Galactose Network Induction in Yeast](http://library.ucsd.edu/dc/collection/bb5668210c) in the Digital Collections Research Data Collections.  The research data collected are microscopy images of field cells, a database file, and analysis code used to investigate how cell-level gene expression dynamics produce population-level phenotypes. 
+
+
+
+**Let’s take a look at data collections.**
+
+Take a look at the metadata and the variety of data formats contained in these collections. 
+
+* Open up this collection: [Data from: A Living Vector Field Reveals Constraints on Galactose Network Induction in Yeast](http://library.ucsd.edu/dc/collection/bb5668210c) in the Digital Collections Research Data Collections.  The reseach data collected are microscopy images of field cells, a database file, and analysis code used to investigate how cell-level gene expression dynamics produce population-level phenotypes. 
 
 When you are done browsing the data in the first collection, take a look a the data in this second collection:
 
