@@ -38,13 +38,14 @@ People have very diverse needs in terms of what data literacy means for them.
 
 Choose from the list below and explore “data literacy” from the perspectives of these diverse roles:
 
-1. [Data informed learning](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.1450520100108/full)
+1. [Data informed learning](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.1450520100108/full) 
 2. Librarians: [What is data literacy in Libraryland](http://databrarians.org/2015/02/what-is-data-literacy/)?
 3. Entrepreneurs: Data Literacy -- [What It Is And Why None of Us Have It ](http://www.forbes.com/sites/homaycotte/2014/10/28/data-literacy-what-it-is-and-why-none-of-us-have-it/#74161cbf51d3)(from Forbes Magazine)
 4. Political science students: [Data Literacy and Data Visualization](https://itunes.apple.com/us/course/data-literacy-data-visualization/id693097601) Lecture 1: Introduction (Note: you need iTunes)
 5. Writers, journalists: [Become Data Literate in 3 Simple Steps](http://datajournalismhandbook.org/1.0/en/understanding_data_0.html)- checking the facts when writing the news
 6. Teachers and high school students: [Data Literacy is Essential to Modern Society](https://youtu.be/4ei7BUMQl5c), which looks at teaching data literacy through Winning and losing on the Lottery. Video 3.51mins (2016)
 7. Citizens: [Open data for accountable governance](http://thegovlab.org/open-data-for-accountable-governance-is-data-literacy-the-key-to-citizen-engagement/): Is data literacy the key to citizen engagement?
+8. [Teaching with data](http://www.teachingwithdata.org/)
 
 **Consider**: your ideas about how we can build universal data literacy if we have such diverse needs.
 
@@ -59,7 +60,7 @@ Have a look at [this Environmental scan](https://goo.gl/cZk5E6) of courses offer
 * [Data Carpentry](http://www.datacarpentry.org/)
 * [Library Carpentry](http://librarycarpentry.github.io/about/)
 * [Software Carpentry](http://software-carpentry.org/)
-* [Author Carpentry](http://libguides.caltech.edu/authorcarpentry)
+* [Author Carpentry](https://authorcarpentry.github.io/)
 
 We will get more hands-on with Carpentry in Thing 21
 
