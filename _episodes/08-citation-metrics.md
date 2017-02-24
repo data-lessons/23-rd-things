@@ -49,8 +49,6 @@ the article had been cited 143 times in Web of Science.
 
 Consider: Do you think altmetrics for data have value in academic settings?  Why, or why not?
 
-
-
 Challenge me: ‘Minting’ DOIs for research data
 The ANDS DOI service (Cite My Data) service enables research organisations to assign Digital Object Identifiers (DOIs) to research datasets and collections as well as well as associated software, workflows, models and grey literature. The service is intended for use by publicly funded Australian research organisations and is available as a machine-to-machine or manual service.
 Start by reading an overview of the ANDS DOI service and perhaps the ANDS DOI service technical documentation.

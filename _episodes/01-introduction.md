@@ -16,35 +16,38 @@ time: "12-1pm"
 
 **What "research data" are we talking about?**
 
-* Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University
+* Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University (5 min)
+
+### Data can be
+
+* **Observational**: Captured in real-time, typically outside the lab
+  * Examples: Sensor readings, survey results, images, audio, video
+* **Experimental**: Typically generated in the lab or under controlled conditions
+  * Examples: test results, clinical trials, field experiments in international development
+* **Simulation**: Machine generated from test models
+  * Examples: climate models, economic models
+* **Derived /Compiled**: Generated from existing datasets
+  * Examples: text as data (data mining), compiled database, 3D models
+
+>## Let’s take a look at data collections
+>*Note: To find collection data in the [Library Digital Collections](http://library.ucsd.edu/dc):*
+>1. Click on the **View Collection Items** button to see the collection.  Next, click on the collection link.
+>Take a look at the metadata and the variety of data formats contained in these collections.
+>
+> 2. Open up this collection: [Data from: A Living Vector Field Reveals Constraints on Galactose Network Induction in Yeast](http://library.ucsd.edu/dc/collection/bb5668210c) in the Digital Collections Research Data Collections.  The research data collected are microscopy images of field cells, a database file, and analysis code used to investigate how cell-level gene expression dynamics produce population-level phenotypes.
+>
+>When you are done browsing the data in the first collection, take a look a the data in this second collection:
+>
+> 3. Open up this collection: [Santa Fe Light Cone Simulation research project files](http://library.ucsd.edu/dc/collection/bb1673671n) in the Digital Collections Research Data Collections. The project consists of data in three broad categories: the simulation data ("Data at Redshift" components); analysis tools and example scripts (Data Processing Tools) for processing the data; and project administration and background documents (Historical Documents) related to the project.
+> 4. If you have time, click on the orange [Research Data Collections](http://library.ucsd.edu/dc) link and check out what other various formats data comes in.
 
 
+>One unique example to look at is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an unique example of ~40 year old computer printed data that was digitized for sharing and preservation.
+{: .callout}
 
-
-
-
-
-
-**Let’s take a look at data collections.**
-
-*Note: To find collection data in the Library Digtal Collections:*
-* Click on the **View Collection Items** button to see the collection.  Next, click on the collection link. 
-
-Take a look at the metadata and the variety of data formats contained in these collections. 
-
-* Open up this collection: [Data from: A Living Vector Field Reveals Constraints on Galactose Network Induction in Yeast](http://library.ucsd.edu/dc/collection/bb5668210c) in the Digital Collections Research Data Collections.  The reseach data collected are microscopy images of field cells, a database file, and analysis code used to investigate how cell-level gene expression dynamics produce population-level phenotypes. 
-
-When you are done browsing the data in the first collection, take a look a the data in this second collection:
-
-* Open up this collection: [Santa Fe Light Cone Simulation research project files](http://library.ucsd.edu/dc/collection/bb1673671n) in the Digital Collections Research Data Collections. The project consists of data in three broad categories: the simulation data ("Data at Redshift" components); analysis tools and example scripts (Data Processing Tools) for processing the data; and project administration and background documents (Historical Documents) related to the project. 
-
- 
-* If you have time, click on the orange [Research Data Collections](http://library.ucsd.edu/dc) link and check out what other various formats data comes in.
-
-* One unique example to look at is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an unique example of ~40 year old computer printed data that was digitized for sharing and preservation. 
-
-
-**Consider**: how the complexity and range of data formats affect access and re-use possibilities.
+>## Complexity and formats affect on re-use
+>How does complexity and range of data formats affect access and re-use possibilities?
+{: .discussion}
 
 ## Learn More: Data across research disciplines
 
@@ -53,12 +56,14 @@ When you are done browsing the data in the first collection, take a look a the d
 * [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
 * [Harvard Dataverse](https://dataverse.harvard.edu/)
 * [cancer Nanotechnology Laboratory (caNanoLab)](https://cananolab.nci.nih.gov/caNanoLab/#/)
-* USGS Water Data
+* [USGS Water Data](https://waterdata.usgs.gov/nwis)
 * [World Ocean Database](https://www.nodc.noaa.gov/OC5/WOD/pr_wod.html)
 
 2. Think about how the data here differs from data you are familiar with.  Consider for example, format, size and access method.
 
-**Consider**: how cross disciplinary research could be affected by discipline data conventions, and also think about one way cross disciplinary data access can be facilitated.
+>## Discipline based data conventions
+>How could cross disciplinary research be affected by discipline data conventions? Also,  think about one way cross disciplinary data access can be facilitated.
+{: .discussion}
 
 ## Challenge me: Let’s talk tech!
 
