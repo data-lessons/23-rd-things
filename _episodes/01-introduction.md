@@ -13,6 +13,14 @@ date: "Feb. 23, 2017"
 time: "12-1pm"
 ---
 
+> Data is the central currency of science, but the nature of scientific data has changed dramatically with the rapid pace of technology.
+>
+> -- Ted Hart, et. al., Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [doi:10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097)
+
+>Data implies software.
+> 
+> Titus Brown, <http://ivory.idyll.org/blog/2017-data-implies-software.html>
+
 ## Getting started: What is research data?
 
 **What "research data" are we talking about?**
