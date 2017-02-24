@@ -5,7 +5,8 @@ exercises: 0
 questions:
 - "What is research data?"
 objectives:
-- "First objective."
+- "Learn about what research data is."
+- "Explore and examine discipline based data repositories."
 keypoints:
 - "First key point."
 date: "Feb. 23, 2017"
@@ -40,7 +41,7 @@ time: "12-1pm"
 >
 > 3. Open up this collection: [Santa Fe Light Cone Simulation research project files](http://library.ucsd.edu/dc/collection/bb1673671n) in the Digital Collections Research Data Collections. The project consists of data in three broad categories: the simulation data ("Data at Redshift" components); analysis tools and example scripts (Data Processing Tools) for processing the data; and project administration and background documents (Historical Documents) related to the project.
 > 4. If you have time, click on the orange [Research Data Collections](http://library.ucsd.edu/dc) link and check out what other various formats data comes in.
-
+{: .challenge}
 
 >One unique example to look at is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an unique example of ~40 year old computer printed data that was digitized for sharing and preservation.
 {: .callout}
