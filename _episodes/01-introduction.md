@@ -30,7 +30,7 @@ time: "12-1pm"
 * **Derived /Compiled**: Generated from existing datasets
   * Examples: text as data (data mining), compiled database, 3D models
 
->## Let’s take a look at data collections
+>## Let’s take a look research data
 >*Note: We'll be using the [UCSD Library Digital Collections](http://library.ucsd.edu/dc) for this exercise.* Feel free to swap out with other institutional or discipline based repositories and collections.
 >
 > 1. Open up one of these collections:
