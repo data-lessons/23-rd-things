@@ -31,20 +31,18 @@ time: "12-1pm"
   * Examples: text as data (data mining), compiled database, 3D models
 
 >## Let’s take a look at data collections
->*Note: To find collection data in the [Library Digital Collections](http://library.ucsd.edu/dc):*
->1. Click on the **View Collection Items** button to see the collection.  Next, click on the collection link.
->Take a look at the metadata and the variety of data formats contained in these collections.
+>*Note: We'll be using the [UCSD Library Digital Collections](http://library.ucsd.edu/dc) for this exercise.* Feel free to swap out with other institutional or discipline based repositories and collections.
 >
-> 2. Open up this collection: [Data from: A Living Vector Field Reveals Constraints on Galactose Network Induction in Yeast](http://library.ucsd.edu/dc/collection/bb5668210c) in the Digital Collections Research Data Collections.  The research data collected are microscopy images of field cells, a database file, and analysis code used to investigate how cell-level gene expression dynamics produce population-level phenotypes.
->
->When you are done browsing the data in the first collection, take a look a the data in this second collection:
->
-> 3. Open up this collection: [Santa Fe Light Cone Simulation research project files](http://library.ucsd.edu/dc/collection/bb1673671n) in the Digital Collections Research Data Collections. The project consists of data in three broad categories: the simulation data ("Data at Redshift" components); analysis tools and example scripts (Data Processing Tools) for processing the data; and project administration and background documents (Historical Documents) related to the project.
-> 4. If you have time, click on the orange [Research Data Collections](http://library.ucsd.edu/dc) link and check out what other various formats data comes in.
+> 1. Open up one of these collections:
+>  * [Data from: A Living Vector Field Reveals Constraints on Galactose Network Induction in Yeast](http://library.ucsd.edu/dc/collection/bb5668210c) - The research data collected are microscopy images of field cells, a database file, and analysis code used to investigate how cell-level gene expression dynamics produce population-level phenotypes.
+>  * [Santa Fe Light Cone Simulation research project files](http://library.ucsd.edu/dc/collection/bb1673671n)- The project consists of data in three broad categories: the simulation data ("Data at Redshift" components); analysis tools and example scripts (Data Processing Tools) for processing the data; and project administration and background documents (Historical Documents) related to the project.
+>2. Write down the specific data formats, software used, and wether the collection has a code book or data dictionary. If you aren't familiar with the data formats or software codes, try a web search and see if you can figure out what it is. Capture your findings.
+>4. Explore the metadata representing the collection. Besides the title and description, what other elements are described?
+> 5. Share with the class what you've found.
 {: .challenge}
 
->## Heavy Metals 
->One unique example to look at is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an unique example of ~40 year old computer printed data that was digitized for sharing and preservation.
+>## Heavy Metals
+>One interesting and unique data collection in the UCSD Digital Collections is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an unique example of ~40 year old computer printed data that was digitized for sharing and preservation.
 {: .callout}
 
 >## Complexity and formats affect on re-use
@@ -76,4 +74,6 @@ What is....
 * a software tool or service for research data you think others might be interested in
 * a question or research data problem to crowdsource a solution.
 
-**Consider**: a personal audit on what data technical skills you have, and what skills you want to learn.
+>## Personal technical data audit
+> Conduct a personal audit on what data technical skills you have, and what skills you want to learn.
+{: .challenge}

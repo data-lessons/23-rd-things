@@ -16,14 +16,18 @@ time: "12-1pm"
 
 ## Getting started: The lifecycle of research data
 
-Data often have a longer lifespan than the research project that creates them. Follow-up projects may analyse or add to the data, and data may be reused by other researchers.  Journals publishers are increasingly mandating that the data underpinning a journal article be retained and made accessible for the long term.
+Data often have a longer lifespan than the research project that creates them. Follow-up projects may analyze or add to the data, and data may be reused by other researchers.  Journals publishers are increasingly mandating that the data underpinning a journal article be retained and made accessible for the long term.
+
 A data lifecycle shows the different phases a dataset goes through as the research project moves from "having a brilliant idea" to "making groundbreaking discoveries" to "telling the world about it"
 
-1. Take a look at the [UK Data Archive Research Data Lifecycle](http://www.data-archive.ac.uk/create-manage/life-cycle)
-2. Click on each of the pink circles to see what happens with data at each stage of the lifecycle.
+> ## Data Lifecycle
+>1. Take a look at the [UK Data Archive Research Data Lifecycle](http://www.data-archive.ac.uk/create-manage/life-cycle)
+>2. Click on each of the pink circles to see what happens with data at each stage of the lifecycle.
+>3. How does this mesh with your understanding of the research lifecycle?
 {.challenge}
 
-**Consider**: what other things impact how data is managed through the lifecycle? eg funding policies which make sharing the data mandatory, or data which is part of an ongoing longitudinal study.
+>## Data through the lifecycle
+>What other things impact how data is managed through the lifecycle? eg funding policies which make sharing the data mandatory, or data which is part of an ongoing longitudinal study.
 {.discussion}
 
 ## Learn more: Managing data through the lifecycle
