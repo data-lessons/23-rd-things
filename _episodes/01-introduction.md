@@ -43,6 +43,7 @@ time: "12-1pm"
 > 4. If you have time, click on the orange [Research Data Collections](http://library.ucsd.edu/dc) link and check out what other various formats data comes in.
 {: .challenge}
 
+>## Heavy Metals 
 >One unique example to look at is the [Heavy Metals in the Ocean Insect, Halobates](http://library.ucsd.edu/dc/collection/bb8056206n) collection.  This is an unique example of ~40 year old computer printed data that was digitized for sharing and preservation.
 {: .callout}
 
