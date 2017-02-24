@@ -19,7 +19,7 @@ time: "12-1pm"
 
 * Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University (5 min)
 
-### Data can be
+### Research data can be
 
 * **Observational**: Captured in real-time, typically outside the lab
   * Examples: Sensor readings, survey results, images, audio, video
@@ -29,6 +29,15 @@ time: "12-1pm"
   * Examples: climate models, economic models
 * **Derived /Compiled**: Generated from existing datasets
   * Examples: text as data (data mining), compiled database, 3D models
+
+### Research data come in many formats
+
+* **Text**: field or laboratory notes, survey responses
+* **Numeric**: tables, counts, measurements
+* **Audiovisual**: images, sound recordings, video
+* Models, computer code, geospatial data
+* **Discipline-specific**: FITS in astronomy, CIF in chemistry, FASTA files in bioinformatics
+* **Instrument-specific**: equipment outputs
 
 >## Let’s take a look research data
 >*Note: We'll be using the [UCSD Library Digital Collections](http://library.ucsd.edu/dc) for this exercise.* Feel free to swap out with other institutional or discipline based repositories and collections.
