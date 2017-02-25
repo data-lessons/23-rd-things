@@ -22,7 +22,7 @@ We all have a role to play in building a world of data literate citizens.
 
 Enjoy this quirky and clever 1.48min video from a cartoonist:
 
-[![What is data literacy?](https://img.youtube.com/vi/qHz_ogTH2p4/0.jpg)](https://www.youtube.com/watch?v=qHz_ogTH2p4 "What is data literacy?") (YouTube)
+[![What is data literacy?](https://img.youtube.com/vi/qHz_ogTH2p4/0.jpg)](https://www.youtube.com/watch?v=qHz_ogTH2p4 "What is data literacy?"){:target="_blank"} (YouTube)
 
 >## Exploring data literacy resources
 >Choose one of the sites from the list below. As you look around the site, think about how you might use these ideas to ‘grow’ your, or other people’s, data literacy:
