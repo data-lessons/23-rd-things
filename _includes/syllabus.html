@@ -20,7 +20,10 @@
   </tr>
   {% for episode in site.episodes %}
     <tr>
-      <td class="col-md-2">{{ episode.date | date: '%B %d, %Y'}}, {{ episode.time}} </td>
+      <td class="col-md-2">
+        {{ episode.date | date: '%B %d, %Y'}}, {{ episode.time}}
+      </td>
+
       <td class="col-md-4">
         <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
@@ -45,8 +48,8 @@
   {% assign minutes = current | modulo: 60 %}
   <tr>
     {% if multiday %}<td></td>{% endif %}
-    <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
-    <td class="col-md-3">Finish</td>
+    <td class="col-md-1">Summer Workshop</td>
+    <td class="col-md-3">Things 10-23</td>
     <td class="col-md-7"></td>
   </tr>
   </table>

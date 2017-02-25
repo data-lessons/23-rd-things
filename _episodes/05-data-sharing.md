@@ -11,7 +11,7 @@ objectives:
 - "Challenge me dips into ensuring that data can be shared for a long time via some preservation tools."
 keypoints:
 - "First key point."
-date: "Mar. 23, 2017"
+date: "Mar. 16, 2017"
 time: "12-1pm"
 ---
 

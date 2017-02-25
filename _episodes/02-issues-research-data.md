@@ -9,7 +9,7 @@ objectives:
 -"Learn more: the 5Vs about Big Data everyone must know"
 -"Challenge me: what are the issues when data is part of an eLab Notebook?"
 keypoints:
-- "Research data is critical to solving the big questions of our time.  "
+- "Research data is critical to solving the big questions of our time."
 date: "Mar. 2, 2017"
 time: "12-1pm"
 ---
@@ -19,12 +19,16 @@ Research data is for everyone.  Governments and universities all around Australi
 
 Research data might be critical to solving the big questions of our time, but so much data are being lost or poorly managed.
 
-1. Take just a minute and browse over some ways Queensland Government Data is being used by businesses, families, travellers, farmers.
-2. This 4.40mins [cartoon](https://www.youtube.com/watch?v=66oNv_DJuPc) put together by the New York University Health Sciences Library, is about what happens when a researcher hasn't managed their data (at all…) What could possibly go wrong!?
-3. As you watch the cartoon jot down the data management mistakes which interest or appal you.
-4. Now, scan through the dot points in the Consider the following…. section of the University of the Sunshine Coast's [LibGuide](http://libguides.usc.edu.au/researchdata) which provides advice for researchers on how to manage their data.
+>## Research data issues
+>2. The following 4.40mins cartoon put together by the New York University Health Sciences Library is about what happens when a researcher hasn't managed their data (at all…) What could possibly go wrong!?\
+     [![Data Sharing and Management Snafu in 3 Short Acts ](https://img.youtube.com/vi/66oNv_DJuPc/0.jpg)](https://www.youtube.com/watch?v=66oNv_DJuPc "Data Sharing and Management Snafu in 3 Short Acts") (YouTube)
+>3. As you watch the cartoon jot down the data management mistakes which interest or appall you.
+>4. Now, scan through the dot points in the Consider the following…. section of the University of the Sunshine Coast's [LibGuide](http://libguides.usc.edu.au/researchdata) which provides advice for researchers on how to manage their data.
+{: .challenge}
 
-**Consider**: how just ONE of the data disasters depicted in the cartoon could have been avoided.
+>## Avoiding data disasters
+>How do you think just ONE of the data disasters depicted in the cartoon could have been avoided?
+{: .discussion}
 
 ## Learn more: How do you manage “Big Data”?
 

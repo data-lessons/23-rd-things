@@ -1,5 +1,5 @@
 ---
-title: "TThing 9: Licensing data for reuse"
+title: "Thing 9: Licensing data for reuse"
 teaching: 0
 exercises: 0
 questions:

@@ -1,25 +1,29 @@
 ---
 title: "Thing 1: Ready Set Data"
-teaching: 0
-exercises: 0
+teaching: 10
+exercises: 20
 questions:
 - "What is research data?"
+- "Where can you find research data in your discipline?"
 objectives:
-- "Learn about what research data is."
-- "Explore and examine discipline based data repositories."
+- "Learn what research data is."
+- "Explore and examine discipline based research data."
+- "Explore the technical aspects of data management and assess your own skills."
 keypoints:
-- "First key point."
+- "Research data is heterogeneous in form."
+- "Research data can be categorized into many categories, such as observational, experimental, simulation, derived or compiled, and reference."
+- "Research data are often contextualized within communities."
+- "Technical data skills are increasingly needed to create, work with, understand and make sense of research data."
 date: "Feb. 23, 2017"
 time: "12-1pm"
 ---
-
 > Data is the central currency of science, but the nature of scientific data has changed dramatically with the rapid pace of technology.
 >
 > -- Ted Hart, et. al., Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [doi:10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097)
 
->Data implies software.
-> 
-> Titus Brown, <http://ivory.idyll.org/blog/2017-data-implies-software.html>
+>Access to the computational steps taken to process data and generate findings is as important as access to data themselves.
+>
+> -- Stodden, et. al., Enhancing reproducibility for computational methods. Science09 Dec 2016 : 1240-1241. [10.1126/science.aah6168](https://doi.org/10.1126/science.aah6168)
 
 ## Getting started: What is research data?
 
@@ -66,17 +70,17 @@ time: "12-1pm"
 >How does complexity and range of data formats affect access and re-use possibilities?
 {: .discussion}
 
-## Learn More: Data across research disciplines
-
-1. Choose one of the 4 specialized data repositories below, or find another data repository of interest - particularly one in a discipline you are unfamiliar with and spend some time browsing around your chosen repository to get a feel for the data available.
-
-* [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
-* [Harvard Dataverse](https://dataverse.harvard.edu/)
-* [cancer Nanotechnology Laboratory (caNanoLab)](https://cananolab.nci.nih.gov/caNanoLab/#/)
-* [USGS Water Data](https://waterdata.usgs.gov/nwis)
-* [World Ocean Database](https://www.nodc.noaa.gov/OC5/WOD/pr_wod.html)
-
-2. Think about how the data here differs from data you are familiar with.  Consider for example, format, size and access method.
+>## Learn More: Data across research disciplines
+>1. Choose one of the 4 specialized data repositories below, or find another data repository of interest - particularly one in a discipline you are unfamiliar with and spend some time browsing around your chosen repository to get a feel for the data available.
+>  * [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
+>  * [Harvard Dataverse](https://dataverse.harvard.edu/)
+>  * [cancer Nanotechnology Laboratory (caNanoLab)](https://cananolab.nci.nih.gov/caNanoLab/#/)
+>  * [USGS Water Data](https://waterdata.usgs.gov/nwis)
+>  * [World Ocean Database](https://www.nodc.noaa.gov/OC5/WOD/pr_wod.html)
+>
+>2. Think about how the data here differs from data you are familiar with.  Consider for example, format, size and access method.
+>3. Record your reflections in the class etherpad or through discussion.
+{: .challenge}
 
 >## Discipline based data conventions
 >How could cross disciplinary research be affected by discipline data conventions? Also,  think about one way cross disciplinary data access can be facilitated.

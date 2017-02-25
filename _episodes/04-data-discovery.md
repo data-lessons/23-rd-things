@@ -11,7 +11,7 @@ objectives:
 -"Challenge me: can we Trust that repository and how would we know?"
 keypoints:
 - "First key point."
-date: "Mar. 16, 2017"
+date: "Mar. 23, 2017"
 time: "12-1pm"
 ---
 ## Getting started: Repositories for data discovery
