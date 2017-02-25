@@ -8,5 +8,5 @@ keypoints:
 - "First key point."
 date: "June, 2017"
 time: "12-1pm"
-publish: false
+published: false
 ---
