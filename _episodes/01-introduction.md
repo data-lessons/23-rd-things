@@ -23,13 +23,16 @@ time: "12-1pm"
 
 >Access to the computational steps taken to process data and generate findings is as important as access to data themselves.
 >
-> -- Stodden, et. al., Enhancing reproducibility for computational methods. Science09 Dec 2016 : 1240-1241. [10.1126/science.aah6168](https://doi.org/10.1126/science.aah6168)
+> -- Victoria Stodden, et. al., Enhancing reproducibility for computational methods. Science09 Dec 2016 : 1240-1241. [10.1126/science.aah6168](https://doi.org/10.1126/science.aah6168)
 
 ## Getting started: What is research data?
 
 **What "research data" are we talking about?**
 
 * Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University (5 min)
+* Watch this video on research data produced by University of California Librarians (5min):
+
+  [![University of California Libraries: Research Data Matters](https://img.youtube.com/vi/Lr722k7NyGU/0.jpg)](https://www.youtube.com/watch?v=Lr722k7NyGU "University of California Libraries: Research Data Matters"){:target="_blank"} (YouTube)
 
 ### Research data can be
 
