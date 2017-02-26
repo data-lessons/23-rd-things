@@ -21,7 +21,7 @@
   {% for episode in site.episodes %}
     <tr>
       <td class="col-md-3">
-        {{ episode.date | date_to_string}}, {{ episode.date | date: '%I'}}-{{episode.enddate | date: '%I %p'}}
+        {{ episode.date | date_to_string}}, {{ episode.date | date: '%H'}}-{{episode.enddate | date: '%I %p'}}
       </td>
 
       <td class="col-md-4">
