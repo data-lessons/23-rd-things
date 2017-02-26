@@ -10,7 +10,7 @@ objectives:
 - "Challenge me: what's in a (PRO)NOM?"
 keypoints:
 - "First key point."
-date: "2017-03-30T12:00:00-08:00"
+date: "2017-03-30T12:00:00"
 enddate: "2017-03-30T13:00:00-08:00"
 location: "Geisel Classroom 2"
 ---

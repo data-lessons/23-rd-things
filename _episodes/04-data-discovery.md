@@ -11,7 +11,7 @@ objectives:
 -"Challenge me: can we Trust that repository and how would we know?"
 keypoints:
 - "First key point."
-date: "2017-03-23T12:00:00-08:00"
+date: "2017-03-23T12:00:00"
 enddate: "2017-03-23T13:00:00-08:00"
 location: "Geisel Classroom 2"
 ---

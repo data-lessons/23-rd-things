@@ -11,7 +11,7 @@ objectives:
 - "Challenge me: How does Licensing work in tricky or complex situations?"
 keypoints:
 - "First key point."
-date: "2017-04-20T12:00:00-08:00"
+date: "2017-04-20T12:00:00"
 enddate: "2017-04-20T13:00:00-08:00"
 location: "Geisel Classroom 2"
 ---
