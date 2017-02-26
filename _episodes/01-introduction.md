@@ -11,15 +11,16 @@ objectives:
 - "Explore the technical aspects of data management and assess your own skills."
 keypoints:
 - "Research data is heterogeneous in form."
-- "Research data can be categorized into many categories, such as observational, experimental, simulation, derived or compiled, and reference."
+- "Research data can be categorized into many types, such as observational, experimental, simulation, derived or compiled, and reference."
 - "Research data are often contextualized within communities."
 - "Technical data skills are increasingly needed to create, work with, understand and make sense of research data."
-date: "Feb. 23, 2017"
-time: "12-1pm"
+date: "2017-02-23T12:00:00-08:00"
+enddate: "2017-02-23T13:00:00-08:00"
+location: "BLB 3"
 ---
 > Data is the central currency of science, but the nature of scientific data has changed dramatically with the rapid pace of technology.
 >
-> -- Ted Hart, et. al., Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [doi:10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097)
+> -- Ted Hart (@emhart), et. al., Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [doi:10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097)
 
 >Access to the computational steps taken to process data and generate findings is as important as access to data themselves.
 >

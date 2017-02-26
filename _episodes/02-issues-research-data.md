@@ -10,8 +10,9 @@ objectives:
 -"Challenge me: what are the issues when data is part of an eLab Notebook?"
 keypoints:
 - "Research data is critical to solving the big questions of our time."
-date: "Mar. 2, 2017"
-time: "12-1pm"
+date: "2017-03-02T12:00:00-08:00"
+enddate: "2017-03-02T13:00:00-08:00"
+location: "Geisel Classroom 2"
 ---
 ## Getting started: Managing data for reuse
 

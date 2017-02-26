@@ -10,8 +10,9 @@ objectives:
 - "Challenge me: what's in a (PRO)NOM?"
 keypoints:
 - "First key point."
-date: "Mar. 30, 2017"
-time: "12-1pm"
+date: "2017-03-30T12:00:00-08:00"
+enddate: "2017-03-30T13:00:00-08:00"
+location: "Geisel Classroom 2"
 ---
 
 ## Getting started: The vulnerability of digital data
@@ -19,11 +20,13 @@ time: "12-1pm"
 Traditional information sources such as books, photos and sculptures can easily survive for years, decades or even centuries but digital items require special care to keep them usable over time.
 
 >## Digital Preservation
->* Watch this 2.5 minute [video](https://youtu.be/qEmmeFFafUs) from the US Library of Congress which shows the vulnerability of “born digital” objects like research data: they are fragile; they are dependent on software and hardware; and they require active management.
+>Watch this 2.5 minute [video](https://youtu.be/qEmmeFFafUs) from the US Library of Congress which shows the vulnerability of “born digital” objects like research data: they are fragile; they are dependent on software and hardware; and they require active management.
 >   
->   [![Why Digital Preservation is Important for Everyone](https://img.youtube.com/vi/qEmmeFFafUs/0.jpg)](https://www.youtube.com/watch?v=qEmmeFFafUs "Why Digital Preservation is Important for Everyone") (YouTube)
->   
->* Delve deeper:
+>[![Why Digital Preservation is Important for Everyone](https://img.youtube.com/vi/qEmmeFFafUs/0.jpg)](https://www.youtube.com/watch?v=qEmmeFFafUs "Why Digital Preservation is Important for Everyone") (YouTube)
+> What are some of the challenges with preserving digital assets?
+{: .challenge}  
+
+>##Delve deeper
 >   - Start with at the ANDS page on [data preservation](http://www.ands.org.au/working-with-data/data-management/data-preservation)
 >   - See the Library of Congress Digital Preservation [website](http://digitalpreservation.gov/personalarchiving/)
 {: .challenge}

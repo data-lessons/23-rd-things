@@ -14,14 +14,14 @@
 -->
   <table class="table table-striped">
   <tr>
-    <td class="col-md-2">BLB Classroom 3</td>
+    <td class="col-md-2">Geisel Classroom 2</td>
     <td class="col-md-4"><a href="{{ page.root }}/setup">Setup</a></td>
     <td class="col-md-7"></td>
   </tr>
   {% for episode in site.episodes %}
     <tr>
-      <td class="col-md-2">
-        {{ episode.date | date: '%B %d, %Y'}}, {{ episode.time}}
+      <td class="col-md-3">
+        {{ episode.date | date_to_string}}, {{ episode.date | date: '%I'}}-{{episode.enddate | date: '%I %p'}}
       </td>
 
       <td class="col-md-4">

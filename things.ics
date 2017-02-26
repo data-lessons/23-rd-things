@@ -1,0 +1,18 @@
+---
+layout: none
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://ucsdlib.github.io/23-Research-Data-Things/
+METHOD:PUBLISH
+{% for episode in site.episodes limit:23 %}BEGIN:VEVENT
+UID:{{ episode.date | date: "%Y%m%d" }}@ucsd.edu
+ORGANIZER;CN="Organizer Name":MAILTO:data-consult@ucsd.edu
+LOCATION:{{ episode.location }}
+SUMMARY:{{ episode.title }}
+CLASS:PUBLIC
+DTSTART:{{ episode.date | date: "%Y%m%d" }}T120000Z
+DTEND:{{ episode.date | date: "%Y%m%d" }}T130000Z
+DTSTAMP:{{ episode.date | date: "%Y%m%d" }}T120000Z
+END:VEVENT{% endfor %}
+END:VCALENDAR

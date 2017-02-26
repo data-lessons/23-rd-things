@@ -9,6 +9,12 @@
       <strong>Teaching:</strong> {{ page.teaching }} min
       <br/>
       <strong>Exercises:</strong> {{ page.exercises }} min
+      <br />
+      <strong>Date:</strong> {{ page.date | date: '%B %d, %Y' }}
+      <br />
+      <strong>Time:</strong> {{ page.date | date: '%I %p' }} - {{ page.enddate | date: '%I %p'}}
+      <br />
+      <strong>Location:</strong> {{ page.location }}
     </div>
     <div class="col-md-9">
       <strong>Questions</strong>

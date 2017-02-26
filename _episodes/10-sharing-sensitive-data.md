@@ -6,9 +6,9 @@ objectives:
 - "Objective 1."
 keypoints:
 - "First key point."
-date: "June, 2017"
-time: "12-1pm"
-location: "Geisel Classroom 3"
+date: "2017-06-01T12:00:00-08:00"
+enddate: "2017-06-01T13:00:00-08:00"
+location: "Geisel Classroom 2"
 published: false
 ---
 Sharing sensitive data requires careful consideration, but it can be done.  Find out how.

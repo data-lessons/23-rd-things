@@ -10,9 +10,9 @@ objectives:
 -"Challenge me: share the current emerging opportunities for institutions to integrate management systems for your research data assets."
 keypoints:
 - "Research data is critical to solving the big questions of our time.  "
-date: "Mar. 9, 2017"
-time: "12-1pm"
-
+date: "2017-03-09T12:00:00-08:00"
+enddate: "2017-03-09T13:00:00-08:00"
+location: "Geisel Classroom 2"
 ---
 
 ## Getting started: The lifecycle of research data

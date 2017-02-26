@@ -11,8 +11,9 @@ objectives:
 - "Challenge me: How does Licensing work in tricky or complex situations?"
 keypoints:
 - "First key point."
-date: "Apr. 20, 2017"
-time: "12-1pm"
+date: "2017-04-20T12:00:00-08:00"
+enddate: "2017-04-20T13:00:00-08:00"
+location: "Geisel Classroom 2"
 ---
 
 ## Getting started: Why license research data?
