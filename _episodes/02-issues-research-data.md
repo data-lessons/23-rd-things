@@ -54,7 +54,7 @@ Effective data management for constantly updated data, such as that within ELNs,
 > Discuss your view on a data management issue and possible solutions, where data is generated, stored and shared via an open ELN.
 {: .challenge}
 
->## File formats and naming
+>## File formats and names
 > A researcher friend in your department gave you her research on a thumb drive and asked you for feedback on making it sharable. She also mentioned to be careful because it's her only copy. When you open up the research folder, called `research project b`, you find the following files.
 >
 >~~~{.bash}
@@ -73,3 +73,7 @@ Effective data management for constantly updated data, such as that within ELNs,
 > 1. What would you suggest to your colleague to help improve the filenames she's chosen?
 > 2. What about the the file formats?  Should she consider different formats?
 {: .challenge}
+
+>## Organizing data
+>Work through the [Data Carpentry Spreadsheets for Ecology](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) on your own. This lesson will teach you some best practices on organizing and formatting ecology data.
+{: .discussion}
