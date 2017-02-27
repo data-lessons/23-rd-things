@@ -8,7 +8,7 @@ permalink: /license/
 By the Australian National Data Service website ([www.ands.org.au](http://www.ands.org.au/)) under the [CC By 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. Changes were made to contextualize for a US. and University of California audience.
 
 All UCSD Library instructional materials are made available under the [Creative Commons Attribution
-license][cc-by-human]. The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0license][cc-by-legal].
+license][https://creativecommons.org/licenses/by/4.0/]. The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0license][https://creativecommons.org/licenses/by/4.0/legalcode].
 
 You are free:
 
