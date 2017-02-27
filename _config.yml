@@ -71,3 +71,6 @@ exclude:
 
 # Turn off built-in syntax highlighting.
 highlighter: false
+
+gems:
+  - jekyll-mentions
