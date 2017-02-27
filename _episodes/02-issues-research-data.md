@@ -37,7 +37,7 @@ Research data might be critical to solving the big questions of our time, but so
 
 >## Big Data
 >Read this [post](https://www.linkedin.com/pulse/20140306073407-64875646-big-data-the-5-vs-everyone-must-know) and >presentation titled: "Big Data: The 5Vs Everyone Must Know.
-> 
+>
 >Is the concept of 5Vs is useful to support better management and reuse of "Big Data"?  If you don't think >5Vs is of value, is there another framework or concept model which could be useful for exploring data >management for big data?
 {: .challenge}
 
@@ -55,7 +55,7 @@ Effective data management for constantly updated data, such as that within ELNs,
 {: .challenge}
 
 >## File
-> A researcher friend in your department gave you her research on a thumb drive and asked you for feedback on making it sharable. She also mentioned to be careful because it's her only copy. When you open up the research folder, called `research project b`, you find the following files (non-proprietary ones, poorly named files, dirs). we could show a view of the data and have like ‘v1, v2, s2, b2,…’ as var names
+> A researcher friend in your department gave you her research on a thumb drive and asked you for feedback on making it sharable. She also mentioned to be careful because it's her only copy. When you open up the research folder, called `research project b`, you find the following files.
 >
 >~~~{.bash}
 >├── FINAL_rev.18.comments7.corrections9.MORE.05.doc
@@ -70,4 +70,6 @@ Effective data management for constantly updated data, such as that within ELNs,
 >├── myresearch-3.do
 >└── myresearchB.do
 >~~~
+> 1. What would you suggest to your colleague to help improve the filenames she's chosen?
+> 2. What about the the file formats?  Should she consider different formats? 
 {: .challenge}
