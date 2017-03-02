@@ -20,15 +20,17 @@ location: "Geisel Classroom 2"
 Traditional information sources such as books, photos and sculptures can easily survive for years, decades or even centuries but digital items require special care to keep them usable over time.
 
 >## Digital Preservation
->Watch this 2.5 minute [video](https://youtu.be/qEmmeFFafUs) from the US Library of Congress which shows the vulnerability of “born digital” objects like research data: they are fragile; they are dependent on software and hardware; and they require active management.
->   
+>Watch the below 2.5 minute video from the US Library of Congress which shows the vulnerability of “born digital” objects like research data: they are fragile; they are dependent on software and hardware; and they require active management.
+>
 >[![Why Digital Preservation is Important for Everyone](https://img.youtube.com/vi/qEmmeFFafUs/0.jpg)](https://www.youtube.com/watch?v=qEmmeFFafUs "Why Digital Preservation is Important for Everyone") (YouTube)
+>
 > What are some of the challenges with preserving digital assets?
 {: .challenge}  
 
->##Delve deeper
->   - Start with at the ANDS page on [data preservation](http://www.ands.org.au/working-with-data/data-management/data-preservation)
->   - See the Library of Congress Digital Preservation [website](http://digitalpreservation.gov/personalarchiving/)
+>## Delve deeper
+> * Start with at the ANDS page on [data preservation](http://www.ands.org.au/working-with-data/data-management/data-preservation)
+> * See the Library of Congress Digital Preservation [website](http://digitalpreservation.gov/personalarchiving/)
+> * What key advice would you give someone about preserving their born digital objects, e.g. the family historian, a researcher, yourself?
 {: .challenge}
 
 Consider: What key advice would you give someone about preserving their born digital objects eg the family historian, a researcher, yourself
@@ -38,13 +40,15 @@ Consider: What key advice would you give someone about preserving their born dig
 ‘Curation’, ‘preservation’, ‘archiving’ … are all commonly used data management terms.  Are they all the same thing?
 
 >## Stack Model
->1. Watch this 5.54 min video in which Sayeed Choudhury, Associate Dean for Research Data Management at Johns Hopkins University introduces the Stack Model for data management and discusses the model's components—storage, archiving, preservation, and curation.
+>1. Watch the below 5.54 min video in which Sayeed Choudhury, Associate Dean for Research Data Management at Johns Hopkins University introduces the Stack Model for data management and discusses the model's components—storage, archiving, preservation, and curation.
+>    
+>    [![Data Conservancy Stack Model for Data Management](https://img.youtube.com/vi/F6iYXNvCRO4/0.jpg)](https://www.youtube.com/watch?v=F6iYXNvCRO4 "Data Conservancy Stack Model for Data Management"){:target="_blank"} (YouTube)
 >2. what do you think about the Stack Model and its relevance for data repositories?
 {: .challenge}
 
 ## Challenge me: File formats for the future
 
-Data managers often refer to ‘long-lived data formats’, ‘open file formats’ and ‘format migration’. The UK National Archives has made available tools and services that can assist with identifying and managing file formats. For this activity we will look at two tools accessible via the National Archives in the UK: PRONOM and DROID.
+Data managers often refer to ‘long-lived data formats’, ‘open file formats’ and ‘format migration’. The UK National Archives has made available tools and services that can assist with identifying and managing file formats. For this activity we will look at two tools accessible via the [National Archives](https://www.nationalarchives.gov.uk/PRONOM/Default.aspx) in the UK: PRONOM and DROID.
 
 >## Long-lived data formats
 >1. Start by searching PRONOM to learn more about a particular file format you commonly work with. Hint: Read the PRONOM Help file to find out about the search options available.

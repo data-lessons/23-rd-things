@@ -16,7 +16,7 @@ location: "Geisel Classroom 2"
 ---
 ## Getting started: Managing data for reuse
 
-Research data is for everyone.  Governments and universities all around Australia and the world are now encouraging researchers to better manage their data so others can use it.
+Research data is for everyone.  Governments and universities all around the US and the world are now encouraging and requiring researchers to better manage their data so others can use it.
 
 Research data might be critical to solving the big questions of our time, but so much data are being lost or poorly managed.
 
@@ -72,6 +72,11 @@ Effective data management for constantly updated data, such as that within ELNs,
 >~~~
 > 1. What would you suggest to your colleague to help improve the filenames she's chosen?
 > 2. What about the the file formats?  Should she consider different formats?
+> 3. What data backup strategies would you recommend?
+{: .challenge}
+
+>## Formatting your data quiz
+> Take the **[quiz](https://b.socrative.com/login/student/)** on formatting your data. Use the Room number **QTKGZXF6G** to take the quiz. This quiz is adapted from [Do-It-Yourself Research Data Management Training Kit for Librarians](http://datalib.edina.ac.uk/mantra/libtraining.html#sthash.qCA9C1BK.dpuf). It is under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 {: .challenge}
 
 >## Organizing data
