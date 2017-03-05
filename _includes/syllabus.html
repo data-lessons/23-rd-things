@@ -4,19 +4,30 @@
 {% endcomment %}
 <div class="syllabus">
   <h2 id="schedule">Schedule</h2>
+<!--
   {% assign day = 0 %}
   {% assign multiday = false %}
   {% for episode in site.episodes %}
     {% if episode.start %}{% assign multiday = true %}{% break %}{% endif %}
   {% endfor %}
   {% assign current = site.start_time %}
+-->
   <table class="table table-striped">
   <tr>
+    <td class="col-md-2">Geisel Classroom 2</td>
+    <td class="col-md-4"><a href="{{ page.root }}/setup">Setup</a></td>
+    <td class="col-md-7"></td>
   </tr>
   {% for episode in site.episodes %}
     <tr>
       <td class="col-md-3">
+        {{ episode.date | date_to_string}}, {{ episode.date | date: '%H'}}-{{episode.enddate | date: '%I %p'}}
       </td>
+
+      <td class="col-md-4">
+        <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
+      </td>
+      <td class="col-md-6">
         {% if episode.break %}
           Break
         {% else %}
@@ -36,6 +47,9 @@
   {% assign hours = current | divided_by: 60 %}
   {% assign minutes = current | modulo: 60 %}
   <tr>
+    {% if multiday %}<td></td>{% endif %}
+    <td class="col-md-1">Summer Workshop</td>
+    <td class="col-md-3">Things 10-23</td>
     <td class="col-md-7"></td>
   </tr>
   </table>
