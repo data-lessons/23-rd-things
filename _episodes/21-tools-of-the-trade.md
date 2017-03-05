@@ -19,22 +19,18 @@ Getting started: Pregnant men? The data says so! Getting down and dirty with dat
 Learn more: Turn a PDF ‘tabula rasa’ into usable data with Tabula
 Challenge me: OpenRefine is a powerful tool for cleaning up lots of dirty data
 
-
-
-
-
-
 ## Getting started: Dirty data stories
 
 Data horror stories: how does it happen!?
+
 Why is ”clean” data important? Public policy, changes to medical protocols and economic decisions all depend on accurate and complete data. Thing 21 looks at the why and what of “dirty data.”
+
 Pregnant men? Yes! Read some real data horror stories about dirty data
 How does data get dirty in the first place? This short video (5mins) from the ASPCA (American Society for Prevention of Cruelty to Animals) shows simply how incomplete, inaccurate data can occur. You can imagine how the resultant problems would multiply exponentially the bigger the dataset
 Browse down the Bad Data Guide list of commonly encountered data quality issues (with possible solutions). This list is aimed at journalists but it shows who is responsible for cleaning up dirty data.
 Click into a few of the causes and solutions to dirty data - many of us contribute information to reports or do our home accounts in spreadsheets, and maybe it’s time to think about how clean our own data is!
 If you have time: For a quick guide to working with spreadsheets, check out one of the School of Data’s Data Fundamentals course. The modules use real data from eg the World Bank.
 Consider: the wide ranging implications of how dirty data can impact on your life.
-
 
 ## Learn more: Extracting and scraping data
 
