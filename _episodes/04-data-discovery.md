@@ -45,8 +45,8 @@ What data repositories exist and how are Australian researchers sharing their da
 ## Challenge me: Evaluating data repositories
 What makes a "good" data repository?  There is much debate about Trusted Repositories and other ways of evaluating repositories - including data repositories.
 Have a look at one or both of the resources below
-DCC checklist for evaluating data repositories
-COINAtlantic Data Accessibility Benchmark tool
+* DCC checklist for evaluating data repositories
+* [COINAtlantic Data Accessibility Benchmark tool](http://coinatlantic.ca/index.php/coinatlantic/data-accessibility-benchmark-tool)
 
 Consider: your experiences or thoughts on evaluating data repositories: have you used either or both of these resources?  Would you?  
 
