@@ -52,4 +52,4 @@ Data management is likely to be most effective where it is integrated into exist
 
 >## Managing Research Data
 >What are the emerging opportunities for institutions to integrate management systems for their research data assets?
-> {: .discussion}
+{: .discussion}
