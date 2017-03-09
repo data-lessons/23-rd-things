@@ -49,6 +49,7 @@ Data management is likely to be most effective where it is integrated into exist
 >* Look carefully at Figure 1 Key Steps in Research Data Management, Section 3: Steps in Research Data Management.
 {: .challenge}
 
+
 >## Managing Research Data
 >What are the emerging opportunities for institutions to integrate management systems for their research data assets?
 > {: .discussion}
