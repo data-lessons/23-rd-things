@@ -20,7 +20,7 @@ location: "Geisel Classroom 2"
 Repositories enable discovery of data by publishing data descriptions ("metadata") about the data they hold - like a library catalogue describes the materials held in a library.  Most repositories provide access to the data itself, but not always.
 
 Data portals or aggregators draw together research data records from a number of repositories. 
-* [Harvard Dataverse](https://dataverse.harvard.edu/) <!---eg Research Data Australia (RDA) aggregates records from over 100 Australian research repositories.--> is both open source research data repository software and an instance of this repository software hosted by Harvard's  Institute for Quantitative Social Science.
+* [Harvard Dataverse](https://dataverse.harvard.edu/) <!---eg Research Data Australia (RDA) aggregates records from over 100 Australian research repositories.--> is both open source research data repository software and a repository hosted by Harvard's Institute for Quantitative Social Science.
 * Click on this [Dataverse record: Replication Data for: What Are The Headwaters of Formal Savings? Experimental Evidence from Sri Lanka](http://dx.doi.org/10.7910/DVN/DGTAKN) <!---from the Australian Antarctic Data Centre: Weddell seals in Antarctica-->
 
 Have a close look at the record to see the ways this record is made discoverable and accessible.  Note how many times this dataset has been downloaded and how to cite this data.  We will look at data citation in more detail in Thing 7.
