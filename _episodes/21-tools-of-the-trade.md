@@ -39,6 +39,7 @@ The School of Data has fantastic, easy to follow tutorials working with real dat
 >3. Download the correct version of Tabula for your operating system, and java runtime if required
 note this tutorial doesn’t work on scanned pdfs
 >4. Work through as much of the Tabula tutorial as you can and remember this tutorial for the next time you get a PDF with valuable (and hard-to-extract) data!
+{: .challenge}
 
 > ## Option 2:
 > As much as we wish everything was available in CSV or the format of our choice – most data on the web is published in different forms. How do you extract data from HTML? Use a Scraper!

@@ -14,18 +14,11 @@ Getting started: experience what it’s like to navigate journal data policies
 Learn more: this newly announced journal data policy might affect data around the globe
 Challenge me: 2020 vision about the future of data and funders.
 
-
-
-
-
-
 Getting started: Research data and scholarly publishing
 
 Two choices for Thing 16!
 
 Two exciting things are happening with data and journal publishers. More and more journal publishers are asking authors to make the data underpinning a journal article available. And, new forms of data publishing are emerging: data journals.
-
-
 
 It’s all about ensuring that the research being described in the article is based on solid, reproducible science. Thinking back to Thing 5: Data Sharing, remember that “available” can be “open” or “shared” through mediated access.
 
