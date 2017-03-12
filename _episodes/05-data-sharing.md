@@ -11,9 +11,6 @@ objectives:
 - "Challenge me dips into ensuring that data can be shared for a long time via some preservation tools."
 keypoints:
 - "First key point."
-date: "2017-03-16T12:00:00"
-enddate: "2017-03-16T13:00:00-08:00"
-location: "Geisel Classroom 2"
 ---
 
 ## Getting started:  Access to research data

@@ -11,9 +11,6 @@ objectives:
 - "Challenge me: B(uild)YO data technical skills through the 4 Carpentries."
 keypoints:
 - "First key point."
-date: "2017-02-23T12:00:00-08:00"
-enddate: "2017-02-23T13:00:00-08:00"
-location: "BLB 3"
 ---
 
 

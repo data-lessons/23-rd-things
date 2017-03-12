@@ -1,6 +1,6 @@
 # Contributing
 
-[Software Carpentry][swc-site] and [Data Carpentry][dc-site] are open source projects,
+23 (Research Data) Things is an open source project,
 and we welcome contributions of all kinds:
 new lessons,
 fixes to existing material,
@@ -14,7 +14,7 @@ you agree that we may redistribute your work under [our license](LICENSE.md).
 In exchange,
 we will address your issues and/or assess your change proposal as promptly as we can,
 and help you become a member of our community.
-Everyone involved in [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
+Everyone involved in this version of 23 (Research Data) Things
 agrees to abide by our [code of conduct](CONDUCT.md).
 
 ## How to Contribute
@@ -48,18 +48,7 @@ and to meet some of our community members.
 1.  If you wish to change this lesson,
     please work in <https://github.com/swcarpentry/FIXME>,
     which can be viewed at <https://swcarpentry.github.io/FIXME>.
-
-2.  If you wish to change the example lesson,
-    please work in <https://github.com/swcarpentry/lesson-example>,
-    which documents the format of our lessons
-    and can be viewed at <https://swcarpentry.github.io/lesson-example>.
-
-3.  If you wish to change the template used for workshop websites,
-    please work in <https://github.com/swcarpentry/workshop-template>.
-    The home page of that repository explains how to set up workshop websites,
-    while the extra pages in <https://swcarpentry.github.io/workshop-template>
-    provide more background on our design choices.
-
+    
 4.  If you wish to change CSS style files, tools,
     or HTML boilerplate for lessons or workshops stored in `_includes` or `_layouts`,
     please work in <https://github.com/swcarpentry/styles>.

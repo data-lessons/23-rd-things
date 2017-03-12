@@ -14,20 +14,15 @@
 -->
   <table class="table table-striped">
   <tr>
-    <td class="col-md-2">Geisel Classroom 2</td>
-    <td class="col-md-4"><a href="{{ page.root }}/setup">Setup</a></td>
+    <td class="col-md-5"><a href="{{ page.root }}/setup">Setup</a></td>
     <td class="col-md-7"></td>
   </tr>
   {% for episode in site.episodes %}
     <tr>
-      <td class="col-md-3">
-        {{ episode.date | date_to_string}}, {{ episode.date | date: '%H'}}-{{episode.enddate | date: '%I %p'}}
-      </td>
-
-      <td class="col-md-4">
+      <td class="col-md-5">
         <a href="{{ page.root }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
-      <td class="col-md-6">
+      <td class="col-md-7">
         {% if episode.break %}
           Break
         {% else %}
@@ -44,14 +39,6 @@
     </tr>
     {% assign current = current | plus: episode.teaching | plus: episode.exercises | plus: episode.break %}
   {% endfor %}
-  {% assign hours = current | divided_by: 60 %}
-  {% assign minutes = current | modulo: 60 %}
-  <tr>
-    {% if multiday %}<td></td>{% endif %}
-    <td class="col-md-1">Summer Workshop</td>
-    <td class="col-md-3">Things 10-23</td>
-    <td class="col-md-7"></td>
-  </tr>
   </table>
 
   <p>

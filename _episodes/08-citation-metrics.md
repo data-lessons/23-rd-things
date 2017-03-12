@@ -10,9 +10,6 @@ objectives:
 - "Challenge me: what about minting DOIs for software, algorithms and grey literature?"
 keypoints:
 - "First key point."
-date: "2017-04-13T12:00:00"
-enddate: "2017-04-13T13:00:00-08:00"
-location: "Geisel Classroom 2"
 ---
 
 ## Getting started: DOIs, data citation and metrics

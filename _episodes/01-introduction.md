@@ -14,8 +14,6 @@ keypoints:
 - "Research data can be categorized into many types, such as observational, experimental, simulation, derived or compiled, and reference."
 - "Research data are often contextualized within communities."
 - "Technical data skills are increasingly needed to create, work with, understand and make sense of research data."
-date: "2017-02-23T12:00:00"
-enddate: "2017-02-23T13:00:00-08:00"
 location: "BLB 3"
 ---
 > Data is the central currency of science, but the nature of scientific data has changed dramatically with the rapid pace of technology.

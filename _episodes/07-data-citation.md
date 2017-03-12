@@ -10,9 +10,6 @@ objectives:
 - "Challenge me: are some data formats more likely to be cited?"
 keypoints:
 - "First key point."
-date: "2017-04-06T12:00:00"
-enddate: "2017-04-06T13:00:00-08:00"
-location: "Geisel Classroom 2"
 ---
 ## Getting started: Citing research data
 

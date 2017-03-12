@@ -6,10 +6,6 @@ objectives:
 - "Objective 1."
 keypoints:
 - "First key point."
-date: "2017-06-01T12:00:00-08:00"
-enddate: "2017-06-01T13:00:00-08:00"
-location: "Geisel Classroom 2"
-published: false
 ---
 Sharing sensitive data requires careful consideration, but it can be done.  Find out how.
 Getting started: If it’s so sensitive - how can it possibly be shared and published?!
