@@ -4,7 +4,7 @@ questions:
 - "Question 1"
 objectives:
 - "Learn about controlled vocabularies for data description"
-- 
+-
 keypoints:
 - "First key point."
 date: "2017-06-01T12:00:00-08:00"
@@ -19,22 +19,25 @@ Data descriptor, keyword, subject … these are all terms commonly used when dis
 
 In addition to selecting a metadata standard or schema, whenever possible you should also use a controlled vocabulary. A controlled vocabulary provides a consistent way to describe data - location, time, place name, subject.
 
-Controlled vocabularies significantly improve data discovery. It makes data more shareable with researchers in the same discipline because everyone is ‘talking the same language’ when searching for specific data eg plants, animals, medical conditions, places etc.
+Controlled vocabularies significantly improve data discovery. It makes data more shareable with researchers in the same discipline because everyone is ‘talking the same language’ when searching for specific data, such as plants, animals, medical conditions, places etc.
 
-Start by browsing Controlling your Language: a Directory of Metadata Vocabularies from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
+> ## Browse Controlled Vocabularies
+>1. Start by browsing [Controlling your Language: a Directory of Metadata Vocabularies](http://www.webarchive.org.uk/wayback/archive/20160101151732/http:/www.jiscdigitalmedia.ac.uk/guide/controlling-your-language-links-to-metadata-vocabularies) from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
+> 2. We are going to see some controlled vocabularies in action in the [Atlas of Living Australia](http://www.ala.org.au/).
+   - We are going to use [Browse Datasets](http://www.ala.org.au/data-sets/):  type **magpie** in the search box. Choose your favorite magpie species and click on the (red text) View record link.  
+   - Any metadata field where you see Supplied... tells you that the information supplied by the person who submitted the record (often a 'citizen scientist') has been changed to the controlled vocabulary being used in metadata fields, such as Observer, Record date and Common name.
+{: .challenge}
 
-We are going to see some controlled vocabularies in action in the Atlas of Living Australia.  
-We are going to use Browse Datasets:  type magpie in the search box. Choose your favourite magpie species and click on the (red text) View record link.  
-Any metadata field where you see Supplied... tells you that the information supplied by the person who submitted the record (often a 'citizen scientist') has been changed to the controlled vocabulary being used in metadata fields eg Observer, Record date and Common name.
-
-Consider: How do you think we could encourage people to use controlled vocabularies in their data descriptions?
+>How do you think we could encourage people to use controlled vocabularies in their data descriptions?
+{: .discussion}
 
 ## Learn more: What controlled vocabularies exist?
 
 Think about (or find out!) what standard vocabularies are used, or could be used, by research groups in a discipline which interests you.  Note that there may be more than one vocabulary used in a discipline.
 
-Choose a vocabulary and determine if it would be of use to people working in a specific field. Try JISC’s Directory of Metadata Vocabularies or University of North Carolina’s Metadata Tutorial to browse for discipline and general vocabularies.
-Research Vocabularies Australia (RVA) is a service that helps you find, access, and reuse vocabularies for research. Go to the RVA Portal, use “Browse all Vocabularies” and see if your chosen vocabulary is included.
+>#Explore controlled vocabularies
+>1. Choose a vocabulary and determine if it would be of use to people working in a specific field. Try JISC’s [Directory of Metadata Vocabularies](http://www.webarchive.org.uk/wayback/archive/20160101151732/http:/www.jiscdigitalmedia.ac.uk/guide/controlling-your-language-links-to-metadata-vocabularies) or University of North Carolina’s [Metadata Tutorial](http://guides.lib.unc.edu/c.php?g=8749&p=44502) to browse for discipline and general vocabularies.
+>2. Research Vocabularies Australia (RVA) is a service that helps you find, access, and reuse vocabularies for research. Go to the RVA Portal, use “Browse all Vocabularies” and see if your chosen vocabulary is included.
 
 Consider: why your vocabulary should (or shouldn’t…) be included in RVA.
 
