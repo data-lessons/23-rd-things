@@ -2,7 +2,7 @@
 title: "Thing 15: Data management plans"
 questions:
 - "What is a Data Management Plan?"
-- "W"
+
 objectives:
 - "Objective 1."
 keypoints:
