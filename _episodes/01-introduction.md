@@ -28,7 +28,7 @@ location: "BLB 3"
 
 **What "research data" are we talking about?**
 
-* Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University (5 min)
+* Read [Research Data - Definitions] (https://www2.le.ac.uk/services/research-data/documents/UoL_ReserchDataDefinitions_20120904.pdf) from University of Leicester (5 min)
 * Watch this video on research data produced by University of California Librarians (5min):
 
   [![University of California Libraries: Research Data Matters](https://img.youtube.com/vi/Lr722k7NyGU/0.jpg)](https://www.youtube.com/watch?v=Lr722k7NyGU "University of California Libraries: Research Data Matters"){:target="_blank"} (YouTube)
