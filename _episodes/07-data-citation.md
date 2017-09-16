@@ -31,8 +31,8 @@ Consider: data citation is a relatively new concept in the scholarly landscape a
 The Force11 Joint Declaration of Data Citation Principles are a set of principles for citing data. They are based on the premise that data citation, like the citation of other evidence and sources, is good research practice and is part of the scholarly ecosystem supporting data reuse.
 Since they were published some 2 years ago, the Principles have been endorsed by numerous individuals and more than 100 data centers, publishers and societies.
 
-1. Start by reading the Force11 Principles
-2. Then browse the list of people and organizations that have endorsed the Principles.
+1. Start by reading the [Force11 Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final)
+2. Then browse the list of people and organizations that [have endorsed the Principles](https://www.force11.org/datacitation/endorsements).
 
 Consider: Given such support and clear direction, why do you think data citation has not been uniformly adopted, so far, across all disciplines?
 

@@ -23,13 +23,12 @@ Repositories enable discovery of data by publishing data descriptions ("metadata
 >
 > Spend a few minutes exploring Dataverse:
 >* Try browsing or searching on a topic of interest
->* See which institutions contribute records.  
+>* See which institutions contribute records.
 >* Explore a record or two in depth.
 {: .challenge}
 
 Data portals or aggregators draw together research data records from a number of repositories.
 
->## Explore Share
 
 **Consider:** the future impact of having a national research data catalog.
 
@@ -53,5 +52,5 @@ Have a look at one or both of the resources below
 * [DCC checklist for evaluating data repositories](http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data/where-keep-research-data)
 * [COINAtlantic Data Accessibility Benchmark tool](http://coinatlantic.ca/index.php/coinatlantic/data-accessibility-benchmark-tool)
 
-Consider: your experiences or thoughts on evaluating data repositories: have you used either or both of these resources?  Would you?  
+Consider: your experiences or thoughts on evaluating data repositories: have you used either or both of these resources?  Would you?
 
