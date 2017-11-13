@@ -1,16 +1,12 @@
 ---
 title: "Thing 12: Vocabularies for data description"
 questions:
-- "Question 1"
+- "What are controlled vocabularies and how are they applied to research data?"
 objectives:
 - "Learn about controlled vocabularies for data description"
--
+- ""
 keypoints:
 - "First key point."
-date: "2017-06-01T12:00:00-08:00"
-enddate: "2017-06-01T13:00:00-08:00"
-location: "Geisel Classroom 2"
-published: true
 ---
 
 Data descriptor, keyword, subject … these are all terms commonly used when discussing metadata.  Learn about the use of controlled vocabularies to enhance data discovery.
@@ -24,7 +20,7 @@ Controlled vocabularies significantly improve data discovery. It makes data more
 > ## Browse Controlled Vocabularies
 >1. Start by browsing [Controlling your Language: a Directory of Metadata Vocabularies](http://www.webarchive.org.uk/wayback/archive/20160101151732/http:/www.jiscdigitalmedia.ac.uk/guide/controlling-your-language-links-to-metadata-vocabularies) from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
 > 2. We are going to see some controlled vocabularies in action in the [Atlas of Living Australia](http://www.ala.org.au/).
-   - We are going to use [Browse Datasets](http://www.ala.org.au/data-sets/):  type **magpie** in the search box. Choose your favorite magpie species and click on the (red text) View record link.  
+   - We are going to use [Browse Datasets](http://www.ala.org.au/data-sets/):  type **magpie** in the search box. Choose your favorite magpie species and click on the (red text) View record link.
    - Any metadata field where you see Supplied... tells you that the information supplied by the person who submitted the record (often a 'citizen scientist') has been changed to the controlled vocabulary being used in metadata fields, such as Observer, Record date and Common name.
 {: .challenge}
 
