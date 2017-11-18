@@ -8,14 +8,13 @@ objectives:
 - "Get hands on with linked data and the semantic web."
 keypoints:
 - "Identifiers are crucial to disambiguation of people, accurate attribution and impact metrics."
--
-published: true
 ---
 
 ## Getting started: How unique are you?
 
 In [Thing 8](08-citation-metrics) we learned about DOIs as persistent identifiers for data, as well as their role in supporting data citation.
 What about identifiers for people?  Think about the many forms a person’s name may take or common names. Is the author JK Rowling the same person as Joanne Rowling and Jo Rowling?  More than 38,000 Americans have the name James Smith!
+
 It’s important to know who’s who when looking at citation metrics as discussed in Thing 7. Universities, funders and publishers worldwide now use ORCID to differentiate between people with the same name by assigning individuals with a unique identifier.
 
 > ## Finding someone's ORCID
@@ -68,7 +67,6 @@ The term Linked Data refers to a set of best practices for publishing and connec
 >   * [Semantic Modeling](http://www.linkeddatatools.com/semantic-modeling)
 >   * [Introducing RDFS & OWL](http://www.linkeddatatools.com/introducing-rdfs-owl)
 >   * [Querying Semantic Data](http://www.linkeddatatools.com/querying-semantic-data)
+> 3. If you have time:  Try out the free online RDF data validator in Tutorial 4 to describe research objects.
+> 4. Consider: how these tools could be used to support linked data
 {: .challenge}
-
-If you have time:  Try out the free online RDF data validator in Tutorial 4 to describe research objects.
-Consider: how these tools could be used to support linked data

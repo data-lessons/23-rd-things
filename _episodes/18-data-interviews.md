@@ -58,7 +58,7 @@ Note: if you aren’t familiar with the Data Curation Profile tools, you may wis
 >2. Note the information at the end of Section 9 to potential users about what compute will be needed to be able to investigate or reuse this data
 > 2. Given the data owners want this data to be open, what would you need to include in the metadata record to ensure reuse of the data was possible?
 {: .challenge}
-
+  
 > ## Option 2: Sociology / Demographics
 >The management needs of this data set involves both visualisation and ongoing contribution by the general public and other researchers.
 >1. Go to [Section 9 of this Data Curation Profile](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1026&context=dcp)
