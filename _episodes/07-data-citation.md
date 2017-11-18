@@ -17,7 +17,7 @@ Data citation continues the tradition of acknowledging other people’s work and
 
 
 
-> ##
+> ## Explore Data Citation Usage
 > 1. Let's look at the [Weddell Seal data]( https://researchdata.ands.org.au/measuring-effects-human-leptonychotes-weddellii/699460/?refer_q=slug=measuring-effects-human-leptonychotes-weddellii/rows=15/sort=list_title_sort%20asc/class=collection/q=/) in ANDS.  Check out how many times it has been cited. This citation count has been measured by Thomson Reuters Data Citation Index product.
 > 1. Scan through the [ANDS introduction to data citation](http://ands.org.au/working-with-data/citation-and-identifiers/data-citation)
 > 2. Now look at the [Hutchinson Drought Index](https://researchdata.ands.org.au/measuring-effects-human-leptonychotes-weddellii/640511) data record in Research Data Australia.
