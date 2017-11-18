@@ -37,7 +37,7 @@ Think about (or find out!) what standard vocabularies are used, or could be used
 
 Consider: why your vocabulary should (or shouldn’t…) be included in RVA.
 
-## Challenge me: Supporting multiple vocabularies
+## Supporting multiple vocabularies
 
 The Science Keyword Aggregator has been developed by CSIRO and released as open source to allow others to adapt and reuse it. It is a service that allows users to search for defined keywords across a range of managed vocabularies.
 

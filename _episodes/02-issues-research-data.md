@@ -21,7 +21,7 @@ Research data might be critical to solving the big questions of our time, but so
 >2. The following 4.40mins cartoon put together by the New York University Health Sciences Library is about what happens when a researcher hasn't managed their data (at all…) What could possibly go wrong!?\
      [![Data Sharing and Management Snafu in 3 Short Acts ](https://img.youtube.com/vi/66oNv_DJuPc/0.jpg)](https://www.youtube.com/watch?v=66oNv_DJuPc "Data Sharing and Management Snafu in 3 Short Acts") (YouTube)
 >3. As you watch the cartoon jot down the data management mistakes which interest or appall you.
->4. Now, scan through the dot points in the [Follow Best Practices](https://libraries.ucsd.edu/services/data-curation/data-management/best-practices.html) section of the RDCP website, which provides advice for researchers on how to manage their data.
+>4. Now, scan through the dot points in the [Data best practices](https://library.stanford.edu/research/data-management-services/data-best-practices) section from the Stanford University Library that provides advice for researchers on how to manage and make their data more (re)usable.
 {: .challenge}
 
 >## Avoiding data disasters
@@ -33,9 +33,9 @@ Research data might be critical to solving the big questions of our time, but so
 "Big Data" is a term we're hearing with increasing frequency. Data management for Big Data brings much complexity - citing dynamic data, software, high volume compute, storage costs, transfer of petabytes of data, preservation, provenance, more.
 
 >## Big Data
->Read this [post](https://www.linkedin.com/pulse/20140306073407-64875646-big-data-the-5-vs-everyone-must-know) and >presentation titled: "Big Data: The 5Vs Everyone Must Know.
+>Read this [post](https://www.linkedin.com/pulse/20140306073407-64875646-big-data-the-5-vs-everyone-must-know) and presentation titled: "Big Data: The 5Vs Everyone Must Know.
 >
->Is the concept of 5Vs is useful to support better management and reuse of "Big Data"?  If you don't think >5Vs is of value, is there another framework or concept model which could be useful for exploring data >management for big data?
+>Is the concept of 5Vs is useful to support better management and reuse of "Big Data"?  If you don't think 5Vs is of value, is there another framework or concept model which could be useful for exploring data management for big data?
 {: .challenge}
 
 ## Challenge me: Digital data in eLab Notebooks
@@ -46,7 +46,7 @@ Effective data management for constantly updated data, such as that within ELNs,
 
 >## eLab Notebooks
 >1. Read this [short](http://esciencelibrary.umassmed.edu/professional-educ/escience-thesaurus/electronic-laboratory-notebook) definition of ELNs
-> 2. Then read [this article](https://opensource.com/life/14/6/international-team-open-sources-search-malaria-cure): International team of scientists open sources search for malaria cure about how an international team of scientists and citizen scientists are using open source ELNs to speed up a cure for malaria.  
+> 2. Then read [this article](https://opensource.com/life/14/6/international-team-open-sources-search-malaria-cure): International team of scientists open sources search for malaria cure about how an international team of scientists and citizen scientists are using open source ELNs to speed up a cure for malaria.
 > 3. You can see their open ELNs [here](http://malaria.ourexperiment.org/).  Click on Matthew Todd's ELN to see what it's in it.
 > Discuss your view on a data management issue and possible solutions, where data is generated, stored and shared via an open ELN.
 {: .challenge}
