@@ -21,7 +21,7 @@ Research data might be critical to solving the big questions of our time, but so
 >2. The following 4.40mins cartoon put together by the New York University Health Sciences Library is about what happens when a researcher hasn't managed their data (at all…) What could possibly go wrong!?\
      [![Data Sharing and Management Snafu in 3 Short Acts ](https://img.youtube.com/vi/66oNv_DJuPc/0.jpg)](https://www.youtube.com/watch?v=66oNv_DJuPc "Data Sharing and Management Snafu in 3 Short Acts") (YouTube)
 >3. As you watch the cartoon jot down the data management mistakes which interest or appall you.
->4. Now, scan through the dot points in the [Follow Best Practices](https://libraries.ucsd.edu/services/data-curation/data-management/best-practices.html) section of the RDCP website, which provides advice for researchers on how to manage their data.
+>4. Now, scan through the dot points in the [Follow Best Practices](https://library.ucsd.edu/research-and-collections/data-curation/best-practices.html) section of the RDCP website, which provides advice for researchers on how to manage their data.
 {: .challenge}
 
 >## Avoiding data disasters
