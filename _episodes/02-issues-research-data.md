@@ -18,7 +18,7 @@ Research data is for everyone.  Governments and universities all around the US a
 Research data might be critical to solving the big questions of our time, but so much data are being lost or poorly managed.
 
 >## Research data issues
->2. The following 4.40mins cartoon put together by the New York University Health Sciences Library is about what happens when a researcher hasn't managed their data (at all…) What could possibly go wrong!?
+>2. The following 4.40mins cartoon put together by the New York University Health Sciences Library is about what happens when a researcher hasn't managed their data (at all…) What could possibly go wrong!? 
     
      [![Data Sharing and Management Snafu in 3 Short Acts ](https://img.youtube.com/vi/66oNv_DJuPc/0.jpg)](https://www.youtube.com/watch?v=66oNv_DJuPc "Data Sharing and Management Snafu in 3 Short Acts") (YouTube)
 >3. As you watch the cartoon jot down the data management mistakes which interest or appall you.
