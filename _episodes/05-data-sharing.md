@@ -47,10 +47,10 @@ Repositories are one means by which research data may be shared but in order to 
 
 Data sharing is only a long term prospect if repositories have preservation as part of their workflows and procedures.
 
-Community Owned digital Preservation Tool Registry (COPTR) describes tools useful for long term digital preservation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
+[Community Owned digital Preservation Tool Registry (COPTR)](http://www.digipres.org/) describes tools useful for long term digital preservation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
 
 >## COPTR Exploration
->1. Go to the COPTR site and pick a discipline you are familiar with and see what tools are available to support long term data sharing of datasets.
+>1. Go to the [COPTR site](http://www.digipres.org/) and pick a discipline you are familiar with and see what tools are available to support long term data sharing of datasets.
 >2. Try out one of the tools in COPTR to see how it works
 {: .challenge}
 

@@ -1,7 +1,7 @@
 ---
 title: "Thing 16: What are publishers & funders saying about data?"
 questions:
-- "Question 1"
+- "What are publishers & funders perspectives on research data?"
 objectives:
 - "Objective 1."
 keypoints:

@@ -20,20 +20,28 @@ location: "BLB 3"
 >
 > -- Ted Hart (@emhart), et. al., Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [doi:10.1371/journal.pcbi.1005097](http://dx.doi.org/10.1371/journal.pcbi.1005097)
 
->Access to the computational steps taken to process data and generate findings is as important as access to data themselves.
+> Access to the computational steps taken to process data and generate findings is as important as access to data themselves.
 >
 > -- Victoria Stodden, et. al., Enhancing reproducibility for computational methods. Science09 Dec 2016 : 1240-1241. [10.1126/science.aah6168](https://doi.org/10.1126/science.aah6168)
 
 ## Getting started: What is research data?
 
+> The concept of research data is complex and fluid. Virtually all types of digital information have the potential to be research data if they are being used as a primary resource for research.
+>
+> -- Research Data Strategy Working Group, [Mapping the Data Landscape: Report of the 2011 Canadian Research Data Summit](https://rds-sdr.cisti-icist.nrc-cnrc.gc.ca/obj/doc/2011_data_summit-sommet_donnees/Data_Summit_Report.pdf)
+
 **What "research data" are we talking about?**
 
-* Read an [Introduction to Research Data](http://www.bu.edu/datamanagement/background/whatisdata/) from Boston University (5 min)
+* Read [Research Data - Definitions](https://www2.le.ac.uk/services/research-data/documents/UoL_ReserchDataDefinitions_20120904.pdf) from University of Leicester (5 min)
 * Watch this video on research data produced by University of California Librarians (5min):
 
   [![University of California Libraries: Research Data Matters](https://img.youtube.com/vi/Lr722k7NyGU/0.jpg)](https://www.youtube.com/watch?v=Lr722k7NyGU "University of California Libraries: Research Data Matters"){:target="_blank"} (YouTube)
 
+
+
 ### Research data can be
+
+
 
 * **Observational**: Captured in real-time, typically outside the lab
   * Examples: Sensor readings, survey results, images, audio, video
