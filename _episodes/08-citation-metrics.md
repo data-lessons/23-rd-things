@@ -1,5 +1,5 @@
 ---
-title: "Thing 8 - Citation metrics for data"
+title: "Thing 8: Citation metrics for data"
 teaching: 0
 exercises: 0
 questions:
